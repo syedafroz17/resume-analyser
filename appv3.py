@@ -12,7 +12,7 @@ load_dotenv()
 
 # Streamlit page configuration
 st.set_page_config(
-    page_title="Sarah AI - Resume Analyzer",
+    page_title="Resume Analyzer",
     layout="wide",
     page_icon="📄"
 )
